@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java"/>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="G:/MyUtils/aopalliance-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/MyUtils/asm-5.0.3.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/asm-analysis-5.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/MyUtils/asm-commons-5.0.3.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/asm-tree-5.0.3.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/asm-util-5.0.3.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/cassandra-driver-core-3.3.2.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/cdi-api-1.0.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/commons-cli-1.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/fastjson-1.1.6.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/guava-20.0.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/guice-4.0-no_aop.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/guice-4.2.0-no_aop.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/jansi-1.17.1.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/jansi-1.17.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/javax.annotation-api-1.3.2.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/jffi-1.2.10.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/jffi-1.2.10-native.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/jnr-constants-0.9.0.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/jnr-ffi-2.0.7.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/jnr-posix-3.0.27.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/jnr-x86asm-1.0.2.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/joda-time-2.0.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/jul-to-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/log4j-api-2.10.0.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/log4j-to-slf4j-2.10.0.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/logback-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-artifact-3.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-artifact-3.5.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-builder-support-3.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-builder-support-3.5.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-compat-3.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-compat-3.5.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-compiler-plugin-2.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-compiler-plugin-2.5.1.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-core-3.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-core-3.5.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-embedder-3.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-embedder-3.5.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-model-3.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-model-3.5.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-model-builder-3.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-model-builder-3.5.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-plugin-api-3.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-plugin-api-3.5.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-repository-metadata-3.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-repository-metadata-3.5.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-resolver-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-resolver-connector-basic-1.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-resolver-impl-1.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-resolver-provider-3.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-resolver-provider-3.5.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-resolver-spi-1.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-resolver-transport-wagon-1.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-resolver-util-1.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-settings-3.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-settings-3.5.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-settings-builder-3.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-settings-builder-3.5.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-shared-utils-3.2.1.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-slf4j-provider-3.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-slf4j-provider-3.5.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/metrics-core-3.2.2.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/netty-buffer-4.0.47.Final.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/netty-codec-4.0.47.Final.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/netty-common-4.0.47.Final.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/netty-handler-4.0.47.Final.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/netty-transport-4.0.47.Final.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/org.eclipse.sisu.inject-0.3.3.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/org.eclipse.sisu.plexus-0.3.3.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/org.springframework.jdbc-3.0.0.M2.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/plexus-cipher-1.7.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/plexus-component-annotations-1.7.1.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/plexus-interpolation-1.24.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/plexus-sec-dispatcher-1.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/plexus-utils-3.1.0.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/reactive-streams-1.0.2.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/reactor-core-3.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/scalajs-joda-time_sjs0.6_2.11-2.4.3.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/scalajs-library_2.11-0.6.5.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/scala-library-2.11.7 - Copy.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/scala-library-2.11.7.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/servlet - Copy.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/servlet.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/slf4j-api-1.7.25 - Copy.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/snakeyaml-1.19 - Copy.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/snakeyaml-1.19.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-aop-4.1.9.RELEASE - Copy.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-aop-4.1.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-aop-4.3.18.RELEASE - Copy.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-aop-4.3.18.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-aop-5.0.7.RELEASE - Copy.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-aop-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-beans-4.1.9.RELEASE - Copy.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-beans-4.1.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-beans-4.3.18.RELEASE - Copy.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-beans-4.3.18.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-beans-5.0.7.RELEASE - Copy.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-beans-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-boot-1.2.3.RELEASE - Copy.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-boot-1.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-boot-1.2.8.RELEASE - Copy.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-boot-1.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-boot-2.0.3.RELEASE - Copy.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-boot-2.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-boot-autoconfigure-2.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-boot-starter-2.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-boot-starter-data-cassandra-reactive-2.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-boot-starter-logging-2.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-context-4.1.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-context-4.3.18.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-context-5.0.7.RELEASE - Copy.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-context-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-core-4.1.9.RELEASE - Copy.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-core-4.1.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-core-4.3.18.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-core-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-data-cassandra-2.0.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-data-commons-2.0.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-expression-4.1.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-expression-4.3.18.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-expression-5.0.7.RELEASE - Copy.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-expression-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-jcl-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-jdbc.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-tx-5.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-web-4.3.18.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-webmvc-4.3.18.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/spring-webmvc-portlet-4.3.18.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/wagon-file-3.0.0.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/wagon-file-3.1.0.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/wagon-http-3.0.0-shaded.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/wagon-http-3.1.0-shaded.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/wagon-provider-api-3.0.0.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/wagon-provider-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-tomcat-9.0.8/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-tomcat-9.0.8/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-tomcat-9.0.8/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-tomcat-9.0.8/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-tomcat-9.0.8/lib/catalina-storeconfig.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-tomcat-9.0.8/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-tomcat-9.0.8/lib/ecj-4.7.3a.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-tomcat-9.0.8/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-tomcat-9.0.8/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-tomcat-9.0.8/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-tomcat-9.0.8/lib/jaspic-api.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-tomcat-9.0.8/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-tomcat-9.0.8/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-tomcat-9.0.8/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-tomcat-9.0.8/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-tomcat-9.0.8/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-tomcat-9.0.8/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-tomcat-9.0.8/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-tomcat-9.0.8/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-tomcat-9.0.8/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-tomcat-9.0.8/lib/tomcat-jni.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-tomcat-9.0.8/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-tomcat-9.0.8/lib/tomcat-util-scan.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-tomcat-9.0.8/lib/tomcat-websocket.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-tomcat-9.0.8/lib/websocket-api.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/cdi-api-1.0.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/commons-cli-1.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/guava-20.0.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/guice-4.2.0-no_aop.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/jansi-1.17.1.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/maven-artifact-3.5.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/maven-builder-support-3.5.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/maven-compat-3.5.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/maven-core-3.5.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/maven-embedder-3.5.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/maven-model-3.5.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/maven-model-builder-3.5.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/maven-plugin-api-3.5.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/maven-repository-metadata-3.5.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/maven-resolver-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/maven-resolver-connector-basic-1.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/maven-resolver-impl-1.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/maven-resolver-provider-3.5.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/maven-resolver-spi-1.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/maven-resolver-transport-wagon-1.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/maven-resolver-util-1.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/maven-settings-3.5.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/maven-settings-builder-3.5.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/maven-shared-utils-3.2.1.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/maven-slf4j-provider-3.5.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/org.eclipse.sisu.inject-0.3.3.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/org.eclipse.sisu.plexus-0.3.3.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/plexus-cipher-1.7.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/plexus-component-annotations-1.7.1.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/plexus-interpolation-1.24.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/plexus-sec-dispatcher-1.4.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/plexus-utils-3.1.0.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/wagon-file-3.1.0.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/wagon-http-3.1.0-shaded.jar"/>
+	<classpathentry kind="lib" path="G:/MyUtils/apache-maven-3.5.4/lib/wagon-provider-api-3.1.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

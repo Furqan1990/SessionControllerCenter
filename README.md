@@ -1,5 +1,3 @@
-# SessionControllerCenter
-B-LTE Server
 Session Controller Center
 ===========================
 
